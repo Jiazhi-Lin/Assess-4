@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6279f10480b694b399263178ed7ce053
+guid: 5fb95cef4d2ab42b4b3b44bc4e22bd47
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2000150803980666351
-    second: Wall03_0
+      213: -8252512034701244714
+    second: Wall_22_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 32
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wall03_0
+      name: Wall_22_0
       rect:
         serializedVersion: 2
         x: 0
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe5ca781f86f1cb10800000000000000
-      internalID: 2000150803980666351
+      spriteID: 6d60ff23700397d80800000000000000
+      internalID: -8252512034701244714
       vertices: []
       indices: 
       edges: []
@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wall_22_0: -8252512034701244714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
