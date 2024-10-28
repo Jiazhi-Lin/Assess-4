@@ -14,10 +14,10 @@ public class BorderAnimator : MonoBehaviour
         // Initialize the positions (you may adjust these based on your design)
         positions = new Vector3[]
         {
-            new Vector3(-750, 50, 0), // Top Left
-            new Vector3(750, 50, 0),  // Top Right
-            new Vector3(750, -850, 0), // Bottom Right
-            new Vector3(-750, -850, 0)  // Bottom Left
+            new Vector3(-900, 490, 0), // Top Left
+            new Vector3(900, 490, 0),  // Top Right
+            new Vector3(900, -490, 0), // Bottom Right
+            new Vector3(-900, -490, 0)  // Bottom Left
         };
 
         borderTransform.localPosition = positions[currentPosIndex];
