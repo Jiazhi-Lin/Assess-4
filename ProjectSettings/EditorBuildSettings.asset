@@ -8,5 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Pacman.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: e50f367cf7bba45c389320a5985841ca
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
